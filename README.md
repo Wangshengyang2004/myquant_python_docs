@@ -104,7 +104,7 @@ print(data)
 
 - 📚 [掘金量化官网](https://www.myquant.cn/)
 - 📖 [官方文档](https://www.myquant.cn/docs2/sdk/python/)
-- 💻 [gm-api PyPI](https://pypi.org/project/gm-api/)
+- 💻 [gm-api PyPI](https://pypi.org/project/gm/)
 - 🎓 [掘金学院](https://www.myquant.cn/academy)
 - 👥 [掘金社区](https://www.myquant.cn/community)
 
