@@ -81,7 +81,7 @@
 ### 安装 gm-api
 
 ```bash
-pip install gm-api
+pip install gm
 ```
 
 ### 简单示例
